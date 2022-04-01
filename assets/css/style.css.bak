@@ -1,0 +1,87 @@
+/* section heading css start */
+.heroimage{
+    padding: 70px 0 100px;
+}
+.navbar li{
+	display:inline-block;
+}
+.navbar li a{
+	font-size:14px;
+	color:#626262;
+	display:inline-block;
+	text-transform:uppercase;
+	margin:0 25px;
+	padding:0 25px;
+}
+
+/* section photodairy css start */
+.head{
+	color:#b4ad9e;
+	font-size:14px;
+	text-transform:uppercase;
+	font-family: 'Ubuntu', sans-serif;
+}
+.subhead{
+	font-size:30px;
+	color:#626262;
+}
+.para{
+	color:#626262;
+	font-size:14px;
+}
+
+/* section signup css start */
+.signuphead{
+	color:#333333;
+	font-size:30px;
+	padding:72px 0 88px;
+}
+.email{
+	width:50%;
+	padding:15px 5px;
+	border:0px;
+	border-bottom:1px solid #000000;
+	outline:0;
+}
+.input{
+	position:relative;
+}
+.submit{
+	position: absolute;
+    right: 25%;
+    top: 20px;
+    transform: rotate(45deg);
+	cursor:pointer;
+}
+.btn{
+	width:165px;
+	color:#626262;
+	font-size:20px;
+	cursor:pointer;
+	padding:20px 0;
+}
+
+.btn:hover{
+	background-color:#333333;
+}
+
+/* section footer css start */
+.footer li{
+	display:inline-block;
+	padding:40px 0;
+}
+.footer li a{
+	display:inline-block;
+	font-size:14px;
+	color:#000000;
+}
+.footericon li{
+	display:inline-block;
+	padding:40px 0;
+}
+.footericon li a{
+	display:inline-block;
+	font-size:14px;
+	color:#000000;
+	padding-right:18px;
+}
